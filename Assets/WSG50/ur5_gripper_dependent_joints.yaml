@@ -1,0 +1,2 @@
+dependent_joints:
+  wsg50_finger_right_joint: {parent: wsg50_finger_left_joint, factor: -1 }

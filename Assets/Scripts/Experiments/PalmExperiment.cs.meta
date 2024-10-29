@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 72d573b2b7a297e4baf4f395b530cbd7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redArrowTexture: {fileID: 2800000, guid: a6118d7e1c6576e449b98160e8b99317, type: 3}
+  - whiteArrowTexture: {fileID: 2800000, guid: b55feb07ab134dc4ca180db4b8445cca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
